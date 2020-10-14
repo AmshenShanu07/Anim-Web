@@ -1,0 +1,37 @@
+#headder{
+    width: 100%;
+    
+}
+
+#body{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+#nav-title{
+    text-align: center;
+}
+
+#option{
+    align-items: center;
+    align-content:center;
+    text-align: center;
+    align-self: center;
+    margin: auto;
+    margin-top: 5rem;
+    
+}
+
+#title{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#input{
+    width: 10rem;
+    
+}
