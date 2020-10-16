@@ -35,3 +35,16 @@
     width: 10rem;
     
 }
+
+#footer{
+    width: 100%;
+    margin-top: 5rem;
+    height:15rem;
+}
+
+#footer-links{
+    align-items: center;
+    align-content: center;
+    text-align: center; 
+    margin:auto;
+}
